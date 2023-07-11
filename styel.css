@@ -309,16 +309,33 @@ footer {
     font-size: 48px;
 
 }
-.p-one{
+
+.p-one {
     text-align: center;
 
     font-size: 18px;
 
-    color:#FFFFFFE5 ;
+    color: #FFFFFFE5;
 }
-.new-class{
+
+.new-class {
     padding-top: 100px;
 }
-.p-two{
+
+.p-two {
     color: #FFFFFF66;
+}
+
+.edit {
+    text-align: center;
+}
+
+.d-one {
+    max-width: 300px;
+    padding-left: 30px;
+}
+
+.four-photo-our {
+    padding-left: 240px;
+    padding-right: 240px;
 }

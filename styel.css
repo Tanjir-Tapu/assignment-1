@@ -1,0 +1,51 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: #E554731A;
+    width: 1920px;
+    height: 850px;
+    background-image: url('pngwing\ 10.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    display: flex;
+}
+
+.part-1 {
+    justify-content: space-between;
+    padding: 100px 100px;
+
+}
+
+.header-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    display: flex;
+    width: 700px;
+    flex-direction: column;
+}
+
+.header-p {
+    color: #27272799;
+    ;
+    font-size: 18px;
+    font-weight: 400;
+    width: 700px;
+}
+
+.header-b {
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+button {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+}

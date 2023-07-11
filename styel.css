@@ -176,6 +176,9 @@ button {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    gap: 50px;
+    
+    
 }
 
 .section-title-two {
@@ -188,7 +191,18 @@ button {
     color: #27272799;
     text-align: center;
     font-size: 18px;
+    align-items: center;
+    width: 700px;
 }
-#bbb{
-   
+
+.img8{
+    padding-right: 300px;
+}
+.ppp{
+    padding-left: 200px;
+}
+.bbb{
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }

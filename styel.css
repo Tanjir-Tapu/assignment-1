@@ -177,6 +177,7 @@ button {
     align-items: center;
     justify-content: space-around;
     gap: 50px;
+    border-radius: 8px;
 
 
 }
@@ -208,7 +209,8 @@ button {
     justify-content: center;
     align-items: center;
 }
-.instra-title{
+
+.instra-title {
     color: #272727;
     text-align: center;
     font-size: 40px;
@@ -218,7 +220,8 @@ button {
     padding-left: 870px;
     padding-right: 870px;
 }
-.instra-title-p{
+
+.instra-title-p {
     color: #27272799;
     text-align: center;
     width: 594px;
@@ -227,16 +230,61 @@ button {
     padding-right: 663px;
     margin-top: 24px;
 }
-.four-photo{
+
+.four-photo {
     margin-left: 240px;
     margin-right: 240px;
     margin-top: 30px;
     display: flex;
     align-items: center;
     gap: 24px;
+    margin-bottom: 100px;
 }
-.fff{
+
+.fff {
     padding-left: 240px;
     padding-right: 240px;
     padding-top: 100px;
+}
+
+.last-section {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: url('Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1400px 500px; 
+
+}   
+.yyy{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+align-items: center;
+}
+.rrr{
+    color: #27272799;
+text-align: center;
+font-size: 18px;
+gap: 16;
+
+}
+.your-email{
+    color: #27272799;
+text-align: center;
+font-size: 16px;
+width: 700px;
+height: 64px;
+text-align: left;
+}
+.btn{
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+background: #E55473;
+text-align: center;
+}
+#bttn{
+
 }

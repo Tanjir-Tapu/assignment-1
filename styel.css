@@ -254,37 +254,71 @@ button {
     background-image: url('Rectangle\ 9.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1400px 500px; 
+    background-size: 1400px 500px;
 
-}   
-.yyy{
+}
+
+.yyy {
     color: #272727;
-text-align: center;
-font-size: 40px;
-align-items: center;
+    text-align: center;
+    font-size: 40px;
+    align-items: center;
 }
-.rrr{
+
+.rrr {
     color: #27272799;
-text-align: center;
-font-size: 18px;
-gap: 16;
+    text-align: center;
+    font-size: 18px;
+    gap: 16;
 
 }
-.your-email{
+
+.your-email {
     color: #27272799;
-text-align: center;
-font-size: 16px;
-width: 700px;
-height: 64px;
-text-align: left;
+    text-align: center;
+    font-size: 16px;
+    width: 700px;
+    height: 64px;
+    text-align: left;
 }
-.btn{
+
+.button {
     width: 150px;
     height: 64px;
-    border-radius: 8px;
-background: #E55473;
-text-align: center;
+    background-color: #E55473;
 }
-#bttn{
 
+footer {
+    background-color: #111010;
+    width: 1922px;
+    height: 449px;
+}
+
+.f-s {
+    color: #E55473;
+}
+
+.uuu {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.h-two {
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 48px;
+
+}
+.p-one{
+    text-align: center;
+
+    font-size: 18px;
+
+    color:#FFFFFFE5 ;
+}
+.new-class{
+    padding-top: 100px;
+}
+.p-two{
+    color: #FFFFFF66;
 }

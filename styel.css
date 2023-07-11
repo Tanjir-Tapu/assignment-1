@@ -14,7 +14,7 @@ header {
 
 .part-1 {
     justify-content: space-between;
-    padding: 100px 100px;
+    padding-left: 100px;
 
 }
 
@@ -25,6 +25,7 @@ header {
     display: flex;
     width: 700px;
     flex-direction: column;
+
 }
 
 .header-p {
@@ -33,6 +34,8 @@ header {
     font-size: 18px;
     font-weight: 400;
     width: 700px;
+    margin-top: 32px;
+    margin-bottom: 32px;
 }
 
 .header-b {
@@ -48,4 +51,48 @@ button {
     font-size: 20px;
     font-weight: 700;
     border-radius: 8px;
+}
+
+.first-section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 200px;
+}
+
+.first-section-p {
+    color: #27272799;
+    text-align: center;
+    width: 594px;
+    font-size: 18px;
+    padding-left: 665px;
+    padding-right: 665px;
+    margin-top: 24px;
+}
+.tree-section{
+    display: flex;
+    margin: 50px;
+}
+
+.Pink-Flower-Tree{
+  
+}
+.one{
+    background-color: #A7216226;
+    width: 464px;
+}
+.one-img{
+    width: 310px;
+
+}
+.one-p{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
 }

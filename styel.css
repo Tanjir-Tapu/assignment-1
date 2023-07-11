@@ -177,8 +177,8 @@ button {
     align-items: center;
     justify-content: space-around;
     gap: 50px;
-    
-    
+
+
 }
 
 .section-title-two {
@@ -195,14 +195,48 @@ button {
     width: 700px;
 }
 
-.img8{
+.img8 {
     padding-right: 300px;
 }
-.ppp{
+
+.ppp {
     padding-left: 200px;
 }
-.bbb{
+
+.bbb {
     display: flex;
-  justify-content: center;
-  align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.instra-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 100px;
+    display: flex;
+    padding-left: 870px;
+    padding-right: 870px;
+}
+.instra-title-p{
+    color: #27272799;
+    text-align: center;
+    width: 594px;
+    font-size: 18px;
+    padding-left: 663px;
+    padding-right: 663px;
+    margin-top: 24px;
+}
+.four-photo{
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+.fff{
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-top: 100px;
 }

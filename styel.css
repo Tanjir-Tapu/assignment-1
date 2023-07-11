@@ -3,19 +3,21 @@ body {
 }
 
 header {
-    background: #E554731A;
-    width: 1920px;
-    height: 850px;
-    background-image: url('pngwing\ 10.png');
-    background-repeat: no-repeat;
-    background-position: bottom right;
     display: flex;
 }
 
 .part-1 {
     justify-content: space-between;
-    padding-left: 100px;
-
+    background: #E554731A;
+    width: 1920px;
+    height: 850px;
+    background-image: url('pngwing\ 10.png');
+    background-repeat: no-repeat;
+    justify-content: space-between;
+    padding: 30px 30px 30px 150px;
+    align-items: center;
+    background-position: bottom right;
+    justify-content: space-between;
 }
 
 .header-title {
@@ -59,6 +61,9 @@ button {
     font-size: 40px;
     font-weight: 800;
     margin-top: 200px;
+    display: flex;
+    padding-left: 764px;
+    padding-right: 764px;
 }
 
 .first-section-p {
@@ -71,22 +76,36 @@ button {
     margin-top: 24px;
 }
 
-.tree-section {
+.dd {
     display: flex;
-    margin: 50px;
+    justify-content: center;
 }
 
-.Pink-Flower-Tree {}
+
+.tree-section {
+    display: flex;
+    margin: 30px;
+
+
+}
+
+.Pink-Flower-Tree {
+    margin: 60px;
+    margin-top: 30px;
+}
 
 .one {
     background-color: #A7216226;
     width: 464px;
     height: 538px;
+    border-radius: 300px 300px 0px 0px;
+
 }
 
 .one-img {
 
-    padding: 30px 30px 0px 30px;
+    padding: 110px 30px 0px 50px;
+
 
 }
 
@@ -101,12 +120,14 @@ button {
     background-color: #0597A026;
     width: 464px;
     height: 538px;
+    border-radius: 300px 300px 0px 0px;
+
 }
 
 .two-img {
     width: 370px;
 
-    padding: 30px 30px 0px 30px;
+    padding: 110px 30px 0px 70px;
 }
 
 .two-p {
@@ -114,4 +135,60 @@ button {
     text-align: center;
     font-size: 24px;
     text-decoration-line: underline;
+}
+
+.three {
+    background-color: #477D1126;
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.three-img {
+    padding: 67px 30px 0px 50px;
+}
+
+.three-p {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    text-decoration-line: underline;
+}
+
+.Pink-Flower-Tree-two {
+    margin: 60px;
+    margin-top: 30px;
+}
+
+.Pink-Flower-Tree-three {
+    margin: 60px;
+    margin-top: 30px;
+}
+
+.h {
+    color: #E55473;
+}
+
+.hot-deal {
+    background-color: #E554730D;
+    width: 1900px;
+    height: 620px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.section-title-two {
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+}
+
+.section-p-two {
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+}
+#bbb{
+   
 }
